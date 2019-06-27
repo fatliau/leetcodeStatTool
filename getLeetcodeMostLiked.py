@@ -6,8 +6,8 @@ Created on Wed Jun 26 17:46:42 2019
 @author: jacky.chen
 """
 import requests, json
-x_csrftoken = "V1fM0doO6EHnMaHX7pGU713VEPRF8TGIXuKX5hsPxDwlEdbGvuj1JWlAKQiQKWPC"
-x_newrelic_id = "UAQDVFVRGwEAXVlbBAg="
+x_csrftoken = ""
+x_newrelic_id = ""
 
 #%% make function to get like and dislike
 
